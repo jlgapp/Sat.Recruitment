@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace Sat.Recruitment.Api
 {
     public class Program
-    {
+    { 
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
